@@ -1,0 +1,26 @@
+.main .main-info {
+    max-width: 80%;
+    padding: 3rem;
+  }
+  .main .main-info p {
+    margin-bottom: 2rem;
+    text-indent: 2rem;
+  }
+  .main .main-list {
+    padding: 3rem 2rem 0;
+    font-size: 1.5rem;
+  }
+  .main .main-list ul, .main .main-list li {
+    margin: 0;
+    padding: 0 1rem 0.5rem 1rem;
+    list-style: none;
+  }
+  .main .main-list p {
+    text-indent: 2rem;
+  }
+  .main a:first-child {
+    text-decoration: none;
+  }
+  .main a:first-child .word--black {
+    color: black;
+  }
